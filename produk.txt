@@ -1,0 +1,4 @@
+A,Pilus,2000
+B,Biskuit,3000
+C,Snack,4000
+D,Oreo,2000
